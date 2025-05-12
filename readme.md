@@ -1,4 +1,13 @@
-# 硬件对应嘉立创的esp32-c3开发板，aichat功能参考立创资料，大模型改为deepseek模型
+# 硬件
+- 对应嘉立创的esp32-c3开发板，aichat功能参考立创资料，大模型改为deepseek模型
+
+# 功能
+1、联网配置信息
+2、aichat
+3、番茄时钟
+4、网络收音机
+
+
 
 # main中cmakelist注意
 尽量不使用

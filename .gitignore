@@ -1,0 +1,5 @@
+# 忽略整个目录
+.vscode/
+build/
+managed_components/
+trash/

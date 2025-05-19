@@ -13,8 +13,6 @@
 - 番茄时钟
 - 网络收音机
 
-
-
 # main中cmakelist注意
 尽量不使用
 #set(COMPONENT_REQUIRES freertos esp_wifi esp_event esp_log esp_system esp_http_client lvgl lvgl_esp32_drivers lvgl_helpers lvgl_tft esp_http_server nvs_flash esp_adc_cal esp_timer esp_event driver esp_system)
